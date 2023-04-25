@@ -1,0 +1,3 @@
+# JIXCORP
+Trabajo inicial 
+en proceso de creacion...
