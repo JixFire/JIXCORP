@@ -88,12 +88,12 @@ html {
 
 .scroll-down {
     z-index: 888;
-    height: 50px;
+    height: 70px;
     width: 30px;
     border: 2px solid #ffffff;
     position: absolute;
     left: 50%;
-    bottom: 100px;
+    bottom: 150px;
     border-radius: 50px;
     cursor: pointer;
 }
@@ -349,12 +349,12 @@ html {
 /*--- Sesion 2 - 5 pagina---*/
 
 #sec-2 {
-    min-height: 90vh;
+    min-height: 100vh;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right, #ffffff 0%, #ffffff 200%);
+    background: #fcfcfc;
 }
 #sec-3 {
     min-height: 80vh;
